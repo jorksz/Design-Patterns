@@ -1,4 +1,4 @@
-package com.abstractFactroy;
+package com.mode.creational.abstractFactroy;
 
 /**
  * 为玩这类产品对象声明一个接口

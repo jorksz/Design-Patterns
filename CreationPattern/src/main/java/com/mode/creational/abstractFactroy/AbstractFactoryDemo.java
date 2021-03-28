@@ -1,4 +1,4 @@
-package com.abstractFactroy;
+package com.mode.creational.abstractFactroy;
 
 /**
  * 抽象工厂 demo

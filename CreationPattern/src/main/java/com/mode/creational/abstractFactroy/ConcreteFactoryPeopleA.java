@@ -1,4 +1,4 @@
-package com.abstractFactroy;
+package com.mode.creational.abstractFactroy;
 
 /**
  * 实现创建具体产品对象 -people1 的操作
